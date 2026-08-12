@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "website622",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8755", "--directory", "C:/Users/conno/OneDrive - Syracuse University/Hemedex/hemedex-website/website622"],
+      "port": 8755
+    }
+  ]
+}
